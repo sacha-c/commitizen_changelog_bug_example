@@ -1,0 +1,5 @@
+[tool.commitizen]
+version_files = ["pyproject.toml:^version"]
+name = "cz_conventional_commits"
+version = "0.0.1"
+tag_format = "v$version"
